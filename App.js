@@ -19,12 +19,11 @@ function myStack() {
     </Stack.Navigatior>
   )
 }
-    )
 
 export default function App() {
   return (
     <NavigationContainer>
-
+      
     </NavigationContainer>
   );
 }
